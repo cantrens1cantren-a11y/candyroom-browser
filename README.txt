@@ -7,3 +7,5 @@ CANDYROOM BROWSER 5
 4. Для запуска нужен Microsoft Edge WebView2 Runtime: https://developer.microsoft.com/microsoft-edge/webview2/
 
 Этот проект находится в тестировании. Связь со мной : jamstubio@gmail.com
+
+Установить браузер : https://drive.google.com/file/d/1rWGigangsVXleyerMNEKZIlDU7Mtoj8U/view
