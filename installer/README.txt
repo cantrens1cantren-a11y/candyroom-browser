@@ -1,4 +1,4 @@
-CANDYROOM: СБОРКА УСТАНОВЩИКА С ИКОНКОЙ
+CANDYROOM: СБОРКА УСТАНОВЩИКА 
 
 
 1. На Windows 10/11 x64 установите .NET 8 SDK: https://dotnet.microsoft.com/download/dotnet/8.0
